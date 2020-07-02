@@ -1,0 +1,6 @@
+/testfiles
+*.db
+*.env
+/docs/documentation.md
+/docs/security.md
+__pycache__/

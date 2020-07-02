@@ -1,0 +1,56 @@
+# Translations template for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-06-11 09:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: resources/form.py:25
+msgid "FORM_CREATED"
+msgstr ""
+
+#: resources/form.py:33 resources/form.py:46 resources/form.py:57
+msgid "FORM_NOT_FOUND"
+msgstr ""
+
+#: resources/form.py:60
+msgid "FORM_DELETED"
+msgstr ""
+
+#: resources/formtype.py:24
+msgid "FORMTYPE_CREATED"
+msgstr ""
+
+#: resources/formtype.py:32 resources/formtype.py:44 resources/formtype.py:55
+msgid "FORMTYPE_NOT_FOUND"
+msgstr ""
+
+#: resources/formtype.py:58
+msgid "FORMTYPE_DELETED"
+msgstr ""
+
+#: resources/xmlforminstance.py:30
+msgid "INSTANCE_CREATED"
+msgstr ""
+
+#: resources/xmlforminstance.py:38 resources/xmlforminstance.py:50
+#: resources/xmlforminstance.py:61
+msgid "INSTANCE_NOT_FOUND"
+msgstr ""
+
+#: resources/xmlforminstance.py:64
+msgid "INSTANCE_DELETED"
+msgstr ""
+
